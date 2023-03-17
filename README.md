@@ -22,7 +22,7 @@ Em um primeiro momento, foi feita a limpeza dos dados. Para isso, houve um traba
 | Aceleração de 0 a 100 km/h | 3            |
 | Tipo de Freio                | 1            |
 | Volume do Porta Malas        | 1            |
-| **Total**              | **32** |
+| **Total**              | **30** |
 
 Como o consumo médio de energia é o valor que queremos prever, foi decidido que as linhas com valores nulos seriam removidas afetando algumas outras colunas, ficando:
 
