@@ -6,9 +6,9 @@ O objetivo desse projeto é criar um modelo de Machine Learning para prever o co
 
 ## Sumário
 
-- [Extração dos dados]('./Scripts/extracao.py')
-- [Processamento de Dados]('./Notebook/Processamento.ipynb')
-- [Modelo de Machine Learning]('./Notebook/Modelagem.ipynb')
+- [Extração dos dados](./Scripts/extracao.py)
+- [Processamento de Dados](./Notebook/Processamento.ipynb)
+- [Modelo de Machine Learning](./Notebook/Modelagem.ipynb)
 
 ## Limpeza dos dados
 
