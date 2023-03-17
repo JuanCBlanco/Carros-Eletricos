@@ -55,9 +55,8 @@ Para a coluna de aceleração, foi descoberto que o valor desta era parcialmente
     PesoMin           -0.004513   0.002586  -1.745   0.0900 .
     PesoMax            0.002862   0.001780   1.608   0.1171
 
-| VeloMax           -0.018555   0.016690  -1.112   0.2740                          |
-| -------------------------------------------------------------------------------- |
-| Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1 |
+    VeloMax           -0.018555   0.016690  -1.112   0.2740                          
+    Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1 
 
     Residual standard error: 1.055 on 34 degrees of freedom
     (2 observations deleted due to missingness)
@@ -86,9 +85,8 @@ Para o volume do porta malas, foi seguido a mesma metodologia que determinou uma
     PesoMin         -0.2480     0.1486  -1.669  0.10320
     PesoMax          0.4060     0.1465   2.772  0.00851 **
 
-| `Entre-eixos`    1.3004     1.3070   0.995  0.32588                            |
-| -------------------------------------------------------------------------------- |
-| Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1 |
+    `Entre-eixos`    1.3004     1.3070   0.995  0.32588                            
+    Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1 
 
     Residual standard error: 92.35 on 39 degrees of freedom
     (1 observation deleted due to missingness)
